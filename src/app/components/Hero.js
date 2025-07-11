@@ -39,7 +39,7 @@ export default function Hero() {
             Discover the <span className="text-red-500">Future of Riding</span>
           </h1>
             <p className="text-sm md:text-base mb-6 text-gray-600">
-  We are redefining the ride, blending smart technology, cutting-edge design, and human-centered engineering. Whether you{"'"}re conquering city streets or exploring new terrain, our bikes are built for tomorrow{"'"}s journey, today.
+  We redefine the ride with smart technology, cutting-edge design, and a focus on people. From urban streets to open trails, our bikes are built to power your next journey with style, precision, and performance.
 </p>
 
 
